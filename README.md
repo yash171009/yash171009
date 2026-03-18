@@ -51,5 +51,5 @@ Always learning. Always building.
 ---
 
 
-<div align="center"> <a href="https://linkedin.com/in/shubh-sheth" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> <div align="center"> <a href="mailto:shethyash17@gmail.com"> <img src="https://img.shields.io/badge/Email-shethshubh@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> </div> 
+<div align="center"> <a href="https://linkedin.com/in/shubh-sheth" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /> <div align="center"> <a href="mailto:shethyash17@gmail.com"> <img src="https://img.shields.io/badge/Email-shethyash17@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/> </a> </div> 
 ---
